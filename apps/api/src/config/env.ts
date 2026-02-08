@@ -22,3 +22,4 @@ export const ENV = {
 
   ENCRYPTION_KEY: required("ENCRYPTION_KEY"), // 32文字以上推奨
 };
+
