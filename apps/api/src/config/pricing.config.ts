@@ -21,3 +21,4 @@ export const PRICING_TABLE: Record<string, ModelPricing> = {
     outputPer1k: 0.015,
   },
 };
+
